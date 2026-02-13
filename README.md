@@ -1,5 +1,3 @@
-### How to Create Selfies with A Celebrity and Make Them Move with AI
-
 Let's be honest, who hasn't fantasized about that perfect selfie moment with a favorite celebrity? Not some blurry backstage photo, not some cut-and-paste collage, but rather a clean, cinematic shot that really does look like you were there together. Now add motion to that image, and suddenly it feels like a short scene instead of a still memory.
 
 That's when AI crosses the line from novelty to creative tool.
